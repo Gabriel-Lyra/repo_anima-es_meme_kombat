@@ -1,0 +1,26 @@
+4 personagens: {elon, kermit, stonks, buff cat}
+
+cada personagem precisa de 11 animações unicas + uma global:
+
+	legenda: (nome da animação) {personagem com animação concluida}
+
+	Idle {elon, kermit, stonks, buff cat}
+	Light attack {elon, kermit, stonks, buff cat}
+	Heavy attack {elon, kermit, stonks, buff cat}
+
+	Crouch idle {elon, kermit, stonks, buff cat}	
+	Crouch light attack {elon, kermit, stonks, buff cat}				
+	Crouch heavy attack {elon, kermit, stonks, buff cat}
+
+	Walk {elon, kermit, stonks, buff cat}
+	Jump {elon, kermit, stonks, buff cat}
+	Falling {elon, kermit, stonks, buff cat}
+
+	Taking Damage {elon, kermit, stonks, cat buff}
+
+	Special {elon, kermit, stonks, cat buff}
+
+	+ Dodge {global}
+
+possiveis animações: block, run, dash, roll.
+
